@@ -1,0 +1,54 @@
+/* Basic font settings */
+html, body {
+    font-family: 'Fira Sans', 'Helvetica', 'Arial', sans-serif;
+    font-color: #333;
+}
+
+/* Page header */
+.page-header {
+
+}
+
+.page-title {
+    margin-left: 1.5em;
+}
+
+.page-subtitle {
+    color: #666;
+}
+
+/* Page content */
+.page-content {
+
+}
+
+/* Page footer */
+.page-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    background-color: #333;
+    text-transform: uppercase;
+}
+
+.page-footer a {
+    color: #5af;
+}
+
+.page-footer a:hover {
+    color: #7cf;
+}
+
+/* Additional helpers */
+
+a {
+    color: #37b;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #39c;
+}
